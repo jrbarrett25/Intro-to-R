@@ -1,5 +1,7 @@
 # R script to accopany Intro to R
-# Copy for RStudent 2019
+# Copy for Jeffrey Barrett
+#Edited by Jeffrey Barrett
+#JB
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
